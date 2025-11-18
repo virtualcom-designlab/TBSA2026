@@ -1,16 +1,31 @@
 
 ### The 1st International Workshop on Trust and Blame in Social Agents [(TBSA2026) in Persuasive 2026](https://2026.persuasivetech.org/workshops-tutorials/#w2)
 
-important links:
-[program](program.md)
-[submission](submission.md)
+### important links:
+- [program](program.md)
+- [submission](submission.md)
 
 
 ## Organizers (names and affiliations):
 
-- Tomoko Yonezawa (Kansai University, Japan)
-- Ryo Uehara (University of Tokyo, Japan)
-- Kunifumi Saito (Keio University, Japan)
+- [Tomoko Yonezawa (Kansai University, Japan)](https://www.res.kutc.kansai-u.ac.jp/~yone/)
+- [Ryo Uehara (University of Tokyo, Japan)](https://www.iii.u-tokyo.ac.jp/faculty/%E6%A4%8D%E5%8E%9F-%E4%BA%AE)
+- [Kunifumi Saito (Keio University, Japan)](https://www.sfc.keio.ac.jp/faculty_profile/en/list/PM/kunifumi-saito.html)
+
+<table border=0 align="center">
+  <tr>
+    <td align="center"><img src="https://www.ipa.go.jp/jinzai/mitou/it/2026/j5u9nn000000b77p-img/j5u9nn000000fs05.jpg" height="150px"></td>
+    <td align="center"><img src="https://www.iii.u-tokyo.ac.jp/manage/wp-content/uploads/2025/06/9ca3f7266ed3935f0924c2d7e908d6b5-400x400.jpg" height="140px"></td>
+    <td align="center"><img src="https://www.sfc.keio.ac.jp/faculty_profile/images/kunifumi23162.jpg" height="150px"></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.res.kutc.kansai-u.ac.jp/~yone/" target="_new">Tomoko Yonezawa (Kansai University, Japan)</a></td>
+    <td><a href="https://www.iii.u-tokyo.ac.jp/faculty/%E6%A4%8D%E5%8E%9F-%E4%BA%AE" target="_new">Ryo Uehara (University of Tokyo, Japan)</a></td>
+    <td><a href="https://www.sfc.keio.ac.jp/faculty_profile/en/list/PM/kunifumi-saito.html" target="_new">Kunifumi Saito (Keio University, Japan)</a></td>    
+  </tr>
+</table>
+
+
 
 ## Motivation: 
 
@@ -33,10 +48,10 @@ Key goals include:
 + Foster Interdisciplinary Dialogue for Future Ethical and Persuasive Frameworks: Create a cross-disciplinary space bridging HRI, ethics, psychology, and persuasive AI design, to collaboratively rethink the conceptual and practical foundations of trust, influence, and agency in artificial systems.
 
 We expect the workshop to result in:
-•	A draft design principle and ethical guideline for socially and persuasively active agents capable of self-assertive interaction.
-•	Building a new network of researchers interested in the intersection of social agency, persuasion, responsibility attribution, and trust in agents.
+-	A draft design principle and ethical guideline for socially and persuasively active agents capable of self-assertive interaction.
+-	Building a new network of researchers interested in the intersection of social agency, persuasion, responsibility attribution, and trust in agents.
 
 
 
 
-## 
+
