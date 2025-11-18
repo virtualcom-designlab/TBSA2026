@@ -1,7 +1,6 @@
 important links:
-[program.md](program)
-[submission.md](submission)
-
+[program](program.md)
+[submission](submission.md)
 
 # TBSA2026
 The 1st International Workshop on Trust and Blame in Social Agents [(TBSA2026) in Persuasive 2026](https://2026.persuasivetech.org/workshops-tutorials/#w2)
