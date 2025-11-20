@@ -1,7 +1,8 @@
 # Submission Guidelines
 
 
-Your submission should have been done in EasyChair until the deadline.
+Your submission should have been done in [EasyChair Persuasive2026](https://easychair.org/conferences/?conf=persuasive2026 ) until the deadline.
+You can choose the *New Submission* tab in the website and choose TBSA2026 Track in the selection lists.
 
 ## Deadlines:
 - Submission deadline: Jan. 11th, 2026 (AOE)
