@@ -8,7 +8,7 @@ You can choose the *New Submission* tab in the website and choose TBSA2026 Track
 - Submission deadline: Jan. 11th, 2026 (AOE)
 
 ## Format
-- Springer CCIS format.
+- Springer CCIS format. Maybe you can find some formats [here](https://www.springer.com/gp/computer-science/lncs/new-latex-templates-available/15634678?srsltid=AfmBOorXxFHyvuolMqSNHpZgNT-oNmq8LXq0qBrPJIIyr5jFxus6bssX).
 - Length: 4–12 pages (including references, 4 pages = minimum). 
 
 ## Review 
@@ -24,7 +24,7 @@ You can choose the *New Submission* tab in the website and choose TBSA2026 Track
 - Participation in all workshops and tutorials requires registration for Persuasive Technology 2026.
 
 ## Notes
-- Submissions must be original and not under review elsewhere.
+- Submissions must be original and not under review elsewhere *based on Persuasive 2026 WS policy*.
 
-
-[back](README.md)
+---
+[back to top page](README.md)
