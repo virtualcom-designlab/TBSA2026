@@ -6,6 +6,8 @@ You can choose the **New Submission** tab in the website and choose TBSA2026 Tra
 
 ## Deadlines:
 - Submission deadline: Jan. 11th, 2026 (AOE)
+- Notification of Acceptance: January 26, 2026
+- Camera-Ready Submission: February 5, 2026
 
 ## Format
 - Springer CCIS format. Maybe you can find some formats [here](https://www.springer.com/gp/computer-science/lncs/new-latex-templates-available/15634678?srsltid=AfmBOorXxFHyvuolMqSNHpZgNT-oNmq8LXq0qBrPJIIyr5jFxus6bssX).
