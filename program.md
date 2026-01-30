@@ -11,7 +11,7 @@
 | Time    | Presenter    | Title   |
 | :-------- | :--------- | :------- |
 | 10:00-10:10     | Organizers       | Opening    |
-| 10:10-10:40     | [Invited Talk:](invited.html) |  [Technology Acceptance and Autonomy: How Should We Understand Technologies That Transform the Mind?](invited.html)  by Dr. Yu Nishitsutsumi   |
+| 10:10-10:40     | [Invited Talk:](invited.md) |  [Technology Acceptance and Autonomy: How Should We Understand Technologies That Transform the Mind?](invited.md)  by Dr. Yu Nishitsutsumi   |
 | 10:40-10:50     | Break Time       | --    |
 | 10:50-11:05     | Ryo Uehara  | Philosophical Persuasion: How Technology Reshapes Intuitions on Reality and Agency    |
 | 11:05-11:20     | Tomoko Yonezawa       | Negative Aversion and Real Reliability for Building Familiar Relationship    |
