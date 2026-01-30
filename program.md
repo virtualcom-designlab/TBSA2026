@@ -8,6 +8,70 @@
 
 
 ## Program Schedule
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Time</th>
+<th style="text-align:left">Presenter</th>
+<th style="text-align:left">Title</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">10:00-10:10</td>
+<td style="text-align:left">Organizers</td>
+<td style="text-align:left">Opening</td>
+</tr>
+<tr>
+<td style="text-align:left">10:10-10:40</td>
+<td style="text-align:left"><a href="invited.md">Invited Talk:</a></td>
+<td style="text-align:left"><a href="invited.md">Technology Acceptance and Autonomy: How Should We Understand Technologies That Transform the Mind?</a>  by Dr. Yu Nishitsutsumi</td>
+</tr>
+<tr>
+<td style="text-align:left">10:40-10:50</td>
+<td style="text-align:left">Break Time</td>
+<td style="text-align:left">--</td>
+</tr>
+<tr>
+<td style="text-align:left">10:50-11:05</td>
+<td style="text-align:left">Ryo Uehara</td>
+<td style="text-align:left">Philosophical Persuasion: How Technology Reshapes Intuitions on Reality and Agency</td>
+</tr>
+<tr>
+<td style="text-align:left">11:05-11:20</td>
+<td style="text-align:left">Tomoko Yonezawa</td>
+<td style="text-align:left">Negative Aversion and Real Reliability for Building Familiar Relationship</td>
+</tr>
+<tr>
+<td style="text-align:left">11:20-11:35</td>
+<td style="text-align:left">Kentaro Meiseki</td>
+<td style="text-align:left">Trust and Behavioral Change in Comments by Confirmation Message Agent <strong>Online</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">11:35-11:50</td>
+<td style="text-align:left">Hirotake Yamazoe</td>
+<td style="text-align:left">Trust and Responsibility Attribution Toward Automated Ambulances: A Preliminary Survey of Japanese Fire Service Personnel</td>
+</tr>
+<tr>
+<td style="text-align:left">11:50-12:05</td>
+<td style="text-align:left">Kunifumi Saito</td>
+<td style="text-align:left">Governing the Dynamic Dead: Civility and Persuasion in Posthumous Digital Personas</td>
+</tr>
+<tr>
+<td style="text-align:left">12:05-12:20</td>
+<td style="text-align:left">Discussions</td>
+<td style="text-align:left">--</td>
+</tr>
+<tr>
+<td style="text-align:left">12:20-12:30</td>
+<td style="text-align:left">Organizers</td>
+<td style="text-align:left">Closing</td>
+</tr>
+</tbody>
+</table>
+
+
 | Time    | Presenter    | Title   |
 | :-------- | :--------- | :------- |
 | 10:00-10:10     | Organizers       | Opening    |
