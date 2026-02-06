@@ -6,22 +6,41 @@
 - 1 Invited Talk and 5 Accepted Papers
 - The presentation time for accepted papers should be 15 minutes, including time for Q and A.
 
+- Morning and evening shuttle buses operate between hotels and the university.
+
+
 
 ## Program Schedule
+According to [the general program of Persuasive 2026](https://github.com/virtualcom-designlab/TBSA2026/edit/main/program.md#persuasive-2026-ws-day-program), 
+we change the program as follows.
 
 
 | Time    | Presenter    | Title   |
 | :-------- | :--------- | :------- |
-| 10:00-10:10     | Organizers       | Opening    |
-| 10:10-10:40     | [Invited Talk:](invited.md) |  [Technology Acceptance and Autonomy: How Should We Understand Technologies That Transform the Mind?](invited.md)    by Dr. Yu Nishitsutsumi   |
-| 10:40-10:50     | Break Time       | --    |
-| 10:50-11:05     | Ryo Uehara  | Philosophical Persuasion: How Technology Reshapes Intuitions on Reality and Agency    |
-| 11:05-11:20     | Tomoko Yonezawa       | Negative Aversion and Real Reliability for Building Familiar Human-Agent Relationships    |
-| 11:20-11:35     | Kentaro Meiseki     | Trust and Behavioral Change in Comments by Confirmation Message Agent **Online**   |
-| 11:35-11:50     | Hirotake Yamazoe       | Trust and Responsibility Attribution Toward Automated Ambulances: A Preliminary Survey of Japanese Fire Service Personnel    |
-| 11:50-12:05     | Kunifumi Saito       | Governing the Dynamic Dead: Civility and Persuasion in Posthumous Digital Personas    |
-| 12:05-12:20     | Discussions | --    |
-| 12:20-12:30     | Organizers | Closing    |
+| 09:00-09:10     | Organizers       | Opening    |
+| 09:10-09:40     | [Invited Talk:](invited.md) |  [Technology Acceptance and Autonomy: How Should We Understand Technologies That Transform the Mind?](invited.md)    by Dr. Yu Nishitsutsumi   |
+| 09:40-09:55     | Ryo Uehara  | Philosophical Persuasion: How Technology Reshapes Intuitions on Reality and Agency    |
+| 09:55-10:30     | Break Time       | --    |
+| 10:30-10:45     | Tomoko Yonezawa       | Negative Aversion and Real Reliability for Building Familiar Human-Agent Relationships    |
+| 10:45-11:00     | Kentaro Meiseki     | Trust and Behavioral Change in Comments by Confirmation Message Agent **Online**   |
+| 11:00-11:15     | Hirotake Yamazoe       | Trust and Responsibility Attribution Toward Automated Ambulances: A Preliminary Survey of Japanese Fire Service Personnel    |
+| 11:15-11:30     | Break Time       | --    |
+| 11:30-11:45     | Kunifumi Saito       | Governing the Dynamic Dead: Civility and Persuasion in Posthumous Digital Personas    |
+| 11:45-12:10     | Discussions | --    |
+| 12:10-12:20     | Organizers | Closing    |
+
+
+### Persuasive 2026 WS day program
+| Time    | Schedule    |
+| :-------- | :--------- | 
+|09:00 – 10:30		|Workshops, Tutorials|
+|10:30 – 11:00		|Morning Tea|
+|11:00 – 12:30		|Workshops, Tutorials|
+|12:30 – 13:30		|Lunch|
+|13:30 – 15:00		|Workshops, Doctoral Consortium |
+|15:00 – 15:30 		|Afternoon Tea|
+|15:30 – 17:00		|Workshops, Doctoral Consortium |
+|17:00 – 18:00		|Steering Committee Meeting / PT2026 Organization Meeting|
 
 
 
@@ -30,6 +49,8 @@
 ____
 
 ----
+
+
 
 ## All Workshops, Tutorials, and Doctoral Consortium in Persuasive 2026
 
