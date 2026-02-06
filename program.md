@@ -28,16 +28,19 @@ we change the program as follows.
 | 12:15-12:20     | Organizers | Closing    |
 | 12:30-13:30     | -- | Official Lunch    |
 
+
+
 ### Persuasive 2026 WS day program
+
 | Time    | Schedule    |
 | :-------- | :--------- | 
-|08:00 – 9:00		|__Registration__|
+|08:00 – 9:00		|__Registration__ |
 |09:00 – 10:30		|Workshops, Tutorials|
-|10:30 – 11:00		|**Morning Tea**|
+|10:30 – 11:00		|**Morning Tea** |
 |11:00 – 12:30		|Workshops, Tutorials|
 |12:30 – 13:30		|**Lunch**|
 |13:30 – 15:00		|Workshops, Doctoral Consortium |
-|15:00 – 15:30 		|**Afternoon Tea**|
+|15:00 – 15:30 		|**Afternoon Tea** |
 |15:30 – 17:00		|Workshops, Doctoral Consortium |
 |17:00 – 18:00		|Steering Committee Meeting / PT2026 Organization Meeting|
 
