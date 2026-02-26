@@ -18,11 +18,14 @@ we change the program as follows.
 | 09:00-09:10     | Organizers       | Opening    |
 | 09:10-09:40     | [Invited Talk:](invited.md) |  [Technology Acceptance and Autonomy: How Should We Understand Technologies That Transform the Mind?](invited.md)    by Dr. Yu Nishitsutsumi   |
 | 09:40-09:55     | Ryo Uehara  | Philosophical Persuasion: How Technology Reshapes Intuitions on Reality and Agency    |
-| 09:55-10:30     | Break Time       | (Official Morning Tea)    |
-| 10:30-10:45     | Tomoko Yonezawa       | Negative Aversion and Real Reliability for Building Familiar Human-Agent Relationships    |
-| 10:45-11:00     | Kentaro Meiseki     | Trust and Behavioral Change in Comments by Confirmation Message Agent **Online**   |
-| 11:00-11:15     | Hirotake Yamazoe       | Trust and Responsibility Attribution Toward Automated Ambulances: A Preliminary Survey of Japanese Fire Service Personnel    |
-| 11:15-11:30     | Break Time       | --    |
+| ~~09:55-10:30~~     | ~~Break Time~~       | ~~(Official Morning Tea)~~    |
+| ~~10:30-10:45~~     | ~~Tomoko Yonezawa~~    | ~~Negative Aversion and Real Reliability for Building Familiar Human-Agent Relationships~~    |
+| ~~10:45-11:00~~     | ~~Kentaro Meiseki~~     | ~~Trust and Behavioral Change in Comments by Confirmation Message Agent **Online**~~   |
+| 09:55-10:10     | Tomoko Yonezawa    | Negative Aversion and Real Reliability for Building Familiar Human-Agent Relationships    |
+| 10:10-10:25     | Kentaro Meiseki     | Trust and Behavioral Change in Comments by Confirmation Message Agent **Online**   |
+| 10:30-11:00     | Break Time       | (Official Morning Tea)    |
+| 11:00-11:15     | Discussion and Mingling       | --    |
+| 11:15-11:30     | Hirotake Yamazoe       | Trust and Responsibility Attribution Toward Automated Ambulances: A Preliminary Survey of Japanese Fire Service Personnel    |
 | 11:30-11:45     | Kunifumi Saito       | Governing the Dynamic Dead: Civility and Persuasion in Posthumous Digital Personas    |
 | 11:45-12:15     | Discussions  | (Trust and Blame in Social Agents and Technology, Ethics and Guidelines in Future)    |
 | 12:15-12:20     | Organizers | Closing    |
