@@ -2,7 +2,7 @@
 ### The 1st International Workshop on Trust and Blame in Social Agents [(TBSA2026)](https://2026.persuasivetech.org/workshops-tutorials/#w2) in [Persuasive 2026](https://2026.persuasivetech.org/)
 
 ### important links:
-- [program](program.md)
+- **[Program and schedule](program.md)** including **[Shuttle bus schedule](https://2026.persuasivetech.org/shuttle-bus/)**
 - [submission](submission.md)
 
 
