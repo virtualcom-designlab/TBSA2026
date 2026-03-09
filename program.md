@@ -12,7 +12,7 @@
 According to [the general program of Persuasive 2026](https://virtualcom-designlab.github.io/TBSA2026/program.html#persuasive-2026-ws-day-program), 
 we change the program as follows.
 
-
+in the case of hybrid: [Zoom Link](https://kansai-u-ac-jp.zoom.us/j/8846013684?pwd=T3JGMmNzcUV4RTlLY1E0Y0VXa1ljQT09)
 | Time    | Presenter    | Title   |
 | :-------- | :--------- | :------- |
 | 09:00-09:10     | Organizers       | Opening    |
