@@ -14,6 +14,8 @@ we change the program as follows.
 
 in the case of hybrid: [Zoom Link](https://kansai-u-ac-jp.zoom.us/j/8846013684?pwd=T3JGMmNzcUV4RTlLY1E0Y0VXa1ljQT09)
 
+[TBSA Photo Page using the password](http://lab.yoneyone.net/tbsa/gdrivelink.html)
+
 
 | Time    | Presenter    | Title   |
 | :-------- | :--------- | :------- |
