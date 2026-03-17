@@ -14,9 +14,9 @@ we change the program as follows.
 
 in the case of hybrid: [Zoom Link](https://kansai-u-ac-jp.zoom.us/j/8846013684?pwd=T3JGMmNzcUV4RTlLY1E0Y0VXa1ljQT09)
 
-[TBSA Photo Page using the password](http://lab.yoneyone.net/tbsa/gdrivelink.html)
+- [TBSA Photo Page using the password](http://lab.yoneyone.net/tbsa/gdrivelink.html)
 (Use tbsa as login user name, and use password as we announced in the workshop.)
-
+- [Persuasive Photos](https://photos.google.com/share/AF1QipMccRy060h9CfW_RbYJXS1E7X_eGA3uqlbJ5o1SADC5Ug1n9KIBqtkqF5TJKl2GsQ?pli=1&key=Q0xaMnlmeTFxbXhXaUNMaGQ5cVlqMjhvZTZNenJ3)
 
 | Time    | Presenter    | Title   |
 | :-------- | :--------- | :------- |
