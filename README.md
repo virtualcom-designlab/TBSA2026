@@ -1,8 +1,8 @@
 
 ### The 2nd International Workshop on Trust and Blame in Multi-Person Multi-Agent Societies [(TBSA 2026_2nd)]() in [Human-Agent Interaction 2026](https://hai-conference.net/hai2026/)
 
-[Link to the TBSA 2026_1st site](https://virtualcom-designlab.github.io/TBSA2026/)
-[Link to Persuasive TBSA 2026 site](https://2026.persuasivetech.org/workshops-tutorials/#w2)
+[Link to the TBSA 2026_1st site](https://virtualcom-designlab.github.io/TBSA2026/) in 
+[Persuasive 2026](https://2026.persuasivetech.org/workshops-tutorials/#w2)
 
 ### important links:
 - **[Program and schedule](program.md)** including **[Shuttle bus schedule](https://2026.persuasivetech.org/shuttle-bus/)**
