@@ -1,11 +1,11 @@
-# TBSA 2026 Program on 10th March 2026
+# TBSA 2026_2nd Program on 16th Nov. 2026
 
 ## Summary
-- Venue: Room 593
+- Venue: TBA
 - Date and Time: March 10th Morning Half Day (9:00–12:30)
 - 1 Invited Talk and 5 Accepted Papers
 - The presentation time for accepted papers should be 15 minutes, including time for Q and A.
-- **[Morning and evening shuttle buses](https://2026.persuasivetech.org/shuttle-bus/)** operate between hotels and the university.
+
 
 
 ## Program Schedule
