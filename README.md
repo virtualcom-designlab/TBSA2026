@@ -5,7 +5,7 @@
 [Persuasive 2026](https://2026.persuasivetech.org/workshops-tutorials/#w2)
 
 ### important links:
-- **[Program and schedule](program.md)** including **[Shuttle bus schedule](https://2026.persuasivetech.org/shuttle-bus/)**
+- **[Program and schedule](program.md)** 
 - [submission](submission.md)
 
 
