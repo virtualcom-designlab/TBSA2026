@@ -3,7 +3,7 @@ layout: default
 title: Trust and Blame
 ---
 
-<img src="img/TBSAiconsimple.png" alt="Workshop icon" width="300"><font size="+3">TBSA 2026</font>_2nd
+<img src="img/TBSAALL.png" alt="Workshop icon" width=100%><font size="+3">TBSA 2026</font>_2nd
 
 ## The 2nd International Workshop on Trust and Blame in Multi-Person Multi-Agent Societies in [Human-Agent Interaction 2026](https://hai-conference.net/hai2026/)
 
