@@ -12,8 +12,8 @@ title: Trust and Blame
 [Persuasive 2026](https://2026.persuasivetech.org/workshops-tutorials/#w2)
 
 ### important links:
-- **[Program and schedule](program.md)** 
-- [submission](submission.md)
+- **[Program and schedule](program.html)** 
+- [submission](submission.html)
 
 
 ## Organizers (names and affiliations):
