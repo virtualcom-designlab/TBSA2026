@@ -5,8 +5,7 @@ title: Trust and Blame
 
 <img src="img/TBSAbnr_2.png" alt="Workshop icon" width="96%">
 
-<font size="+3">TBSA 2026</font>_2nd
-
+# TBSA 2026_2nd
 ## The 2nd International Workshop on Trust and Blame in Multi-Person Multi-Agent Societies in [Human-Agent Interaction 2026](https://hai-conference.net/hai2026/)
 
 [Link to the _past_ TBSA 2026_1st site](https://virtualcom-designlab.github.io/TBSA2026/tbsa2026-01/tbsa2026-01.md) in 
