@@ -1,4 +1,5 @@
-<img src="img/TBSAbnr_2.png" alt="Workshop icon" width="96%">
+
+<img src="img/TBSAbnr_2.png" alt="Workshop icon" width="98%">
 
 
 # TBSA 2026_2nd Program on 16th Nov. 2026
