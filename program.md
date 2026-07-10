@@ -56,7 +56,7 @@ in the case of hybrid: [Zoom Link](https://kansai-u-ac-jp.zoom.us/j/8846013684?p
 
 
 ---
-[back to top page](README.md)
+[back to top page](index.html)
 ____
 
 ----
@@ -97,5 +97,5 @@ BCSS Full-Day Workshop
 (approximately 10 presenters)
 
 ---
-[back to top page](README.md)
+[back to top page](index.html)
 
