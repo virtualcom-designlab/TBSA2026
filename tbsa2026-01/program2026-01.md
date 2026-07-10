@@ -22,7 +22,7 @@ in the case of hybrid: [Zoom Link](https://kansai-u-ac-jp.zoom.us/j/8846013684?p
 | Time    | Presenter    | Title   |
 | :-------- | :--------- | :------- |
 | 09:00-09:10     | Organizers       | Opening    |
-| 09:10-09:40     | [Invited Talk:](invited.md) |  [Technology Acceptance and Autonomy: How Should We Understand Technologies That Transform the Mind?](invited.md)    by Dr. Yu Nishitsutsumi   |
+| 09:10-09:40     | [Invited Talk:](invited.html) |  [Technology Acceptance and Autonomy: How Should We Understand Technologies That Transform the Mind?](invited.html)    by Dr. Yu Nishitsutsumi   |
 | 09:40-09:55     | Ryo Uehara  | Philosophical Persuasion: How Technology Reshapes Intuitions on Reality and Agency    |
 | ~~09:55-10:30~~     | ~~Break Time~~       | ~~(Official Morning Tea)~~    |
 | ~~10:30-10:45~~     | ~~Tomoko Yonezawa~~    | ~~Negative Aversion and Real Reliability for Building Familiar Human-Agent Relationships~~    |
