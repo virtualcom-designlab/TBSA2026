@@ -4,20 +4,19 @@
 
 # TBSA 2026_2nd Program on 16th Nov. 2026
 
-## Summary
 TBA
 
 <!--
+
+## Summary
 - Venue: TBA
 - Date and Time: March 10th Morning Half Day (9:00–12:30)
 - 1 Invited Talk and 5 Accepted Papers
 - The presentation time for accepted papers should be 15 minutes, including time for Q and A.
--->
+
 
 ## Program Schedule
-TBA
 
-<!--
 According to [the general program of Persuasive 2026](https://virtualcom-designlab.github.io/TBSA2026/program.html#persuasive-2026-ws-day-program), 
 we change the program as follows.
 
@@ -46,13 +45,9 @@ in the case of hybrid: [Zoom Link](https://kansai-u-ac-jp.zoom.us/j/8846013684?p
 | 12:15-12:20     | Organizers | Closing    |
 | 12:30-13:30     | -- | Official Lunch    |
 
--->
 
 ### HAI 2026 common WS day program
 
-TBA
-
-<!--
 | Time    | Schedule    |
 | :-------- | :--------- | 
 |08:00 – 9:00		|__Registration__ |
@@ -65,7 +60,7 @@ TBA
 |15:30 – 17:00		|Workshops, Doctoral Consortium |
 |17:00 – 18:00		|Steering Committee Meeting / PT2026 Organization Meeting|
 
--->
+
 
 ---
 [back to top page](index.html)
@@ -73,7 +68,6 @@ ____
 
 ----
 
-<!--
 
 ## All Workshops, Tutorials, and Doctoral Consortium in Persuasive 2026
 
@@ -108,7 +102,8 @@ The 3rd BTI International Workshop (BTIW3)
 BCSS Full-Day Workshop
 (approximately 10 presenters)
 
+-->
+
 ---
 [back to top page](index.html)
 
--->
