@@ -51,6 +51,7 @@ in the case of hybrid: [Zoom Link](https://kansai-u-ac-jp.zoom.us/j/8846013684?p
 ### HAI 2026 common WS day program
 
 TBA
+
 <!--
 | Time    | Schedule    |
 | :-------- | :--------- | 
@@ -72,7 +73,7 @@ ____
 
 ----
 
-
+<!--
 
 ## All Workshops, Tutorials, and Doctoral Consortium in Persuasive 2026
 
@@ -110,3 +111,4 @@ BCSS Full-Day Workshop
 ---
 [back to top page](index.html)
 
+-->
