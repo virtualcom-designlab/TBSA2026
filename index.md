@@ -67,22 +67,22 @@ The workshop welcomes researchers, practitioners, designers, and students workin
 ## Possible Topics:
 
 + **Trust, blame, and responsibility in socially embedded HAI**
-– Trust and blame in socially embedded HAI
-– Collective trust, distrust, and distributed responsibility
-– Cultural differences in trust, blame, responsibility, and moral expectations toward agents
-- Design methods and evaluation frameworks for socially sustainable HAI
+  + Trust and blame in socially embedded HAI
+  + Collective trust, distrust, and distributed responsibility
+  + Cultural differences in trust, blame, responsibility, and moral expectations toward agents
+  + Design methods and evaluation frameworks for socially sustainable HAI
 + **Multi-person and multi-agent social dynamics**
-– Multi-person and multi-agent interaction
-– AI agents as participants in social norms and group dynamics
-– Human-agent interaction in families, classrooms, caresettings, workplaces, public spaces, and online communities
-– Social disruption, exclusion, conflict, and mediation involving AI agents
-– Low-fidelity, minimalist, or emotionally expressive agents in social contexts
+  + Multi-person and multi-agent interaction
+  + AI agents as participants in social norms and group dynamics
+  + Human-agent interaction in families, classrooms, caresettings, workplaces, public spaces, and online communities
+  + Social disruption, exclusion, conflict, and mediation involving AI agents
+  + Low-fidelity, minimalist, or emotionally expressive agents in social contexts
 + **Agency, autonomy, psychological safety, and moral/legal status**
-– Mutual psychological safety in human-agent environments
-– Agentrefusal, avoidance, assertiveness, and self-protection
-– Moral consideration, robot rights, and reciprocal treatment of agents
-– Autonomous agents and debates on legal personhood orrights-bearing status
-– AI agents that recreate or simulate the personalities ofdeceased persons
+  + Mutual psychological safety in human-agent environments
+  + Agentrefusal, avoidance, assertiveness, and self-protection
+  + Moral consideration, robot rights, and reciprocal treatment of agents
+  + Autonomous agents and debates on legal personhood orrights-bearing status
+  + AI agents that recreate or simulate the personalities ofdeceased persons
 
 <!--
 Key goals include:
