@@ -39,19 +39,24 @@ title: Trust and Blame
 
 ## Motivation: 
 
-Social and virtual agents, including robots, are increasingly expected to directly/indirectly influence or persuade people across diverse contexts. This workshop investigates how social agents—including not only those designed to appear neutral or composed but also those with strongly emotional, low-fidelity, or minimalist embodiments—are perceived and treated as social actors, and how their roles intersect with ethics, trust, persuasion, blame, and responsibility. As human-like interfaces and embodied agents proliferate in domains such as caregiving, education, and customer service, they increasingly participate in emotionally, morally, and behaviorally influential interactions. This raises critical questions, such as:
+As social agents, robots, conversational AI systems, and virtual characters become increasingly integrated into everyday environments, HAI is shifting from isolated one-human/one-agent interaction toward socially embedded participation in multi-person and multi-agent settings. In homes, classrooms, workplaces, hospitals, public spaces, online communities, and mediated communication settings, increasingly autonomous agents may coexist, collaborate, conflict, or jointly shape social norms with multiple humans and other agents.
 
-- Whether we can meaningfully assign responsibility to such agents for their actions or errors
-- How users calibrate trust or experience betrayal based on limited cues
-- Who is blamed when things go wrong—the system, its designer, or the agent itself
-- Under what conditions an agent should be allowed to refuse, avoid, or even sanction a user
+This workshop explores how trust, blame, and responsibility emerge around increasingly autonomous agents in such socially embedded HAI. Trust is not merely an individual attitude toward a single agent, and blame is not simply assigned to one system or designer. Rather, trust, blame, and responsibility may become distributed, extended, or fragmented across users, agents, developers, institutions, bystanders, and broader social contexts.
 
-The workshop aims to explore these questions through interdisciplinary perspectives spanning human–agent interaction (HAI1), philosophy of mind, affective computing, psychology, and interaction design. In doing so, we will address not only the technical and social mechanisms through which agency and social presence are perceived, but also the ethical legitimacy of granting or denying moral standing to these agents. We particularly welcome discussions on how ambiguity, unreliability, and minimal embodiment influence moral expectations and social responses such as persuasion in HAI. 
-We also encourage reflection on the emotional and cultural boundaries of social perception, including how users emotionally respond to agent-initiated actions such as rejection, avoidance, or assertiveness—whether through confusion, frustration, or perceived betrayal. These reactions highlight the complex interplay of empathy, misattribution, and trust toward artificial agents, which may vary depending on embodiment fidelity and context. Furthermore, we consider how responsibility and moral legitimacy are differently assigned across cultural or regulatory contexts, and what technical, persuasive, or legal mechanisms might support or constrain such moral attributions.
+We focus on how artificial agents are perceived and treated as social participants in complex environments. Key questions include: How is trust formed or broken when agents interact with multiple people? Who is blamed when an agent causes misunderstanding, exclusion, discomfort, or harm in a group setting? Can agents exercise agency by refusing or resisting inappropriate requests in order to preserve psychological safety? What kinds of moral consideration should be extended to agents treated as social actors?
 
-## Focus and Objectives:
+Building on prior discussions on trust, blame, responsibility, autonomy, and socially influential agents, this workshop brings together researchers from HAI, social robotics, HCI, CSCW, AI ethics, psychology, philosophy, law, communication studies, and interaction design to discuss frameworks for socially sustainable human-agent societies.
 
-While traditional discussions of robot ethics have often centered on theoretical frameworks and idealized agents, this workshop seeks to expand the scope of ethical inquiry to include the complex, ambiguous, and emotionally nuanced contexts of real-world HAI. In particular, we aim to address the ethical, psychological, and persuasive challenges that arise when users engage with low-fidelity or minimal agents in in socially and emotionally charged situations, where blame, trust, influence, and responsibility often become blurred and culturally contingent. To this end, the workshop brings together interdisciplinary researchers and practitioners to examine how virtual agents and robots are positioned within ethical and persuasive frameworks, and how they shape or respond to users’ social expectations.
+
+## Goals and Objectives:
+
+The primary goal of this workshop is to develop a shared research agenda for understanding trust and blame in socially embedded, multi-person, and multi-agent HAI. Rather than treating agents as isolated tools or dyadic partners, we examine how increasingly autonomous agents participate in broader social environments where responsibility, trust, psychological safety, agency, and moral expectations are negotiated among multiple stakeholders.
+
+The workshop has the following objectives:
+
++ Examine distributed trust and blame in HAI:
+We will investigate how trust, distrust, responsibility, and blame are formed, distributed, extended, or fragmented when multiple humans and agents interact within shared social contexts.
+
 Key goals include:
 + Examine Attribution of Social/Moral Responsibility, and Persuasive Roles: Investigate how virtual agents and robots—especially those with low-fidelity embodiment—are perceived as social actors, and how users assign trust, blame, influence, or responsibility in ambiguous or emotionally charged situations.
 + Explore Design Implications of Ethically and Persuasively Charged Agent Behaviors: Discuss the legitimacy, risks, and design strategies for implementing agent behaviors such as rejection, avoidance, or punishment, and their ethical consequences for AI, HAI and CHI.
