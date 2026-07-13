@@ -6,6 +6,7 @@
 
 ## Summary
 TBA
+
 <!--
 - Venue: TBA
 - Date and Time: March 10th Morning Half Day (9:00–12:30)
@@ -15,6 +16,7 @@ TBA
 
 ## Program Schedule
 TBA
+
 <!--
 According to [the general program of Persuasive 2026](https://virtualcom-designlab.github.io/TBSA2026/program.html#persuasive-2026-ws-day-program), 
 we change the program as follows.
