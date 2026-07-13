@@ -83,6 +83,7 @@ The workshop welcomes researchers, practitioners, designers, and students workin
   + Moral consideration, robot rights, and reciprocal treatment of agents
   + Autonomous agents and debates on legal personhood orrights-bearing status
   + AI agents that recreate or simulate the personalities ofdeceased persons
+  + Legal, policy, and governance issues in multi-agent social environments
 
 <!--
 Key goals include:
@@ -92,9 +93,11 @@ Key goals include:
 -->
 
 We expect the workshop to result in:
--	A draft design principle and ethical guideline for socially and persuasively active agents capable of self-assertive interaction.
--	Building a new network of researchers interested in the intersection of social agency, persuasion, responsibility attribution, and trust in agents.
-
++ **Develop a preliminary research agenda** for trust and blame around autonomy and agency in multi-person and multi-agent societies.
+Identify key concepts, open questions, methodological challenges, and emerging application domains for socially embedded HAI.
++ **Draft design considerations for agents participating in shared social environments**, including distributed responsibility, group-level trust calibration, agent refusal, mutual psychological safety, and social boundary management.
++ **Build an interdisciplinary network of researchers and practitioners** across HAI, social robotics, AI ethics, philosophy, law, psychology, and interaction design.
++ **Explore follow-up activities** such as a future workshop series, collaborative position paper, special issue proposal, or online community.
 
 
 
