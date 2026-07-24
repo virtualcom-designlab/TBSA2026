@@ -11,7 +11,9 @@ TBA
 - All submissions will be peer-reviewed.
 
 ## Presentation:
-- Accepted papers will be presented in the program on 16th Nov. 2026 HAI workshop
+- Accepted submissions will be presented in the program on 16th Nov. 2026 HAI workshop
+- Accepted papers will be made publicly available as arXiv preprints to ensure that workshop contributions are citable and accessible.
+
   
 ## Publication:
 TBA
