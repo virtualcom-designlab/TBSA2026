@@ -8,10 +8,10 @@
 
 | Time | Session | Description |
 |---|---|---|
-| 09:00–09:15 | Opening and Theme Introduction | Overview of the workshop motivation, scope, and key questions. |
-| 09:15–10:00 | Invited Keynote / Provocation Talk | A talk introducing broader perspectives on socially embedded agents, trust, responsibility, autonomy, or moral/legal status. |
-| 10:00–10:15 | Break |  |
-| 10:15–12:00 | Paper and Position Presentations | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers. |
+| 09:30–09:45 | Opening and Theme Introduction | Overview of the workshop motivation, scope, and key questions. |
+| 09:45–10:30 | Invited Keynote / Provocation Talk | A talk introducing broader perspectives on socially embedded agents, trust, responsibility, autonomy, or moral/legal status. |
+| 10:30–10:45 | Break |  |
+| 10:45–12:00 | Paper and Position Presentations | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers. |
 | 12:00–13:30 | Lunch Break |  |
 | 13:30–14:30 | Thematic Discussion | Discussion structured around trust/blame/responsibility, multi-person/multi-agent social dynamics, and agency/autonomy/moral-legal status. |
 | 14:30–14:45 | Break |  |
