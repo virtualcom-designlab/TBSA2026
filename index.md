@@ -60,6 +60,13 @@ The workshop has the following objectives:
 + **Reconsider moral consideration and rights-like claims for artificial agents:** We will discuss whether, when, and how artificial agents should receive moral consideration or rights-like status, especially when they are treated as social actors, exhibit autonomy, or are embedded in social and legal relationships.
 + **Develop design and ethical frameworks for socially sustainable HAI:** We aim to identify design principles, ethical questions, and research challenges for building human-agent systems that can participate responsibly in complex social environments.
 
+The expected results are 
+- issue map
+- research agenda
+- design/discussion points
+in
+ Attribution / Autonomy & Agency / Moral-Legal Status / Social Consequences.
+
 ## Expected Audience:
 
 The workshop welcomes researchers, practitioners, designers, and students working on human-agent interaction, social robotics, HCI, CSCW, AI ethics, affective computing, psychology, philosophy, law, communication studies, and related fields. We particularly encourage participation from researchers interested in socially embedded interaction, group dynamics, autonomy, agency, moral agency, trust calibration, responsibility attribution, and psychologically safe human-agent systems.
