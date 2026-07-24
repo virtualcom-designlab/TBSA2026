@@ -23,6 +23,20 @@ Limited hybrid participation may be supported depending on the conference infras
 | 16:00–16:45 | Panel Discussion | Cross-disciplinary discussion connecting HAI, social robotics, AI ethics, philosophy, law, and design perspectives. |
 | 16:45–17:15 | Final Synthesis and Future Agenda | Synthesis of discussion outcomes, including a preliminary issue map, future research agenda, and possible follow-up activities. |
 
+## Facilitation Plan
+
+The workshop will use a structured discussion format to connect diverse perspectives from HAI, social robotics, AI ethics, philosophy, law, psychology, and interaction design.
+
+Discussions will be organized around three axes:
+
+1. Trust, blame, and responsibility
+2. Multi-person and multi-agent social dynamics
+3. Agency, autonomy, psychological safety, and moral/legal status
+
+These axes will help participants distinguish the core themes from related cases and application domains, and synthesize the discussion into a preliminary issue map and research agenda.
+
+
+
 <!--
 
 ## Summary
