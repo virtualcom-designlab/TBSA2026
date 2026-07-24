@@ -45,7 +45,7 @@ This workshop explores how trust, blame, and responsibility emerge around increa
 
 We focus on how artificial agents are perceived and treated as social participants in complex environments. Key questions include: How is trust formed or broken when agents interact with multiple people? Who is blamed when an agent causes misunderstanding, exclusion, discomfort, or harm in a group setting? Can agents exercise agency by refusing or resisting inappropriate requests in order to preserve psychological safety? What kinds of moral consideration should be extended to agents treated as social actors?
 
-Building on prior discussions on trust, blame, responsibility, autonomy, and socially influential agents, this workshop brings together researchers from HAI, social robotics, HCI, CSCW, AI ethics, psychology, philosophy, law, communication studies, and interaction design to discuss frameworks for socially sustainable human-agent societies.
+Building on prior work on trust, blame, responsibility, autonomy, and socially influential agents, this workshop brings together researchers from HAI, social robotics, HCI, CSCW, AI ethics, psychology, philosophy, law, communication studies, and interaction design to discuss frameworks for socially sustainable human-agent societies.
 
 
 ## Goals and Objectives:
