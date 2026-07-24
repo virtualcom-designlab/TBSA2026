@@ -4,7 +4,20 @@
 
 # TBSA 2026_2nd Program on 16th Nov. 2026
 
-TBA
+## TBA, Tentative Full-Day Timetable
+
+| Time | Session | Description |
+|---|---|---|
+| 09:00–09:15 | Opening and Theme Introduction | Overview of the workshop motivation, scope, and key questions. |
+| 09:15–10:00 | Invited Keynote / Provocation Talk | A talk introducing broader perspectives on socially embedded agents, trust, responsibility, autonomy, or moral/legal status. |
+| 10:00–10:15 | Break |  |
+| 10:15–12:00 | Paper and Position Presentations | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers. |
+| 12:00–13:30 | Lunch Break |  |
+| 13:30–14:30 | Thematic Discussion | Discussion structured around trust/blame/responsibility, multi-person/multi-agent social dynamics, and agency/autonomy/moral-legal status. |
+| 14:30–14:45 | Break |  |
+| 14:45–16:00 | Breakout Group Activity / Issue Mapping | Small-group discussion to identify key issues, research gaps, design questions, and application scenarios. |
+| 16:00–16:45 | Panel Discussion | Cross-disciplinary discussion connecting HAI, social robotics, AI ethics, philosophy, law, and design perspectives. |
+| 16:45–17:15 | Final Synthesis and Future Agenda | Synthesis of discussion outcomes, including a preliminary issue map, future research agenda, and possible follow-up activities. |
 
 <!--
 
