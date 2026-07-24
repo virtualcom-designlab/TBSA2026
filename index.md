@@ -56,7 +56,7 @@ The workshop has the following objectives:
 
 + **Examine distributed trust and blame in HAI:** We will investigate how trust, distrust, responsibility, and blame are formed, distributed, extended, or fragmented when multiple humans and agents interact within shared social contexts.
 + **Explore agents as social participants in group environments:** We will discuss how autonomous or semi-autonomous agents affect group dynamics, social norms, interpersonal relationships, inclusion and exclusion, conflict, and the emotional atmosphere of shared environments.
-+ **Investigate mutual psychological safety and social bound- aries:** We will examine how both humans and agents may be- come targets of inappropriate, harmful, or socially disruptive interaction, and how agent refusal, avoidance, assertiveness, or self- protective behaviors may express agency and be designed and evaluated.
++ **Investigate mutual psychological safety and social boundaries:** We will examine how both humans and agents may become targets of inappropriate, harmful, or socially disruptive interaction, and how agent refusal, avoidance, assertiveness, or self-protective behaviors may express agency and be designed and evaluated.
 + **Reconsider moral consideration and rights-like claims for artificial agents:** We will discuss whether, when, and how artificial agents should receive moral consideration or rights-like status, especially when they are treated as social actors, exhibit autonomy, or are embedded in social and legal relationships.
 + **Develop design and ethical frameworks for socially sustainable HAI:** We aim to identify design principles, ethical questions, and research challenges for building human-agent systems that can participate responsibly in complex social environments.
 
@@ -81,15 +81,15 @@ The workshop welcomes researchers, practitioners, designers, and students workin
 + **Multi-person and multi-agent social dynamics**
   + Multi-person and multi-agent interaction
   + AI agents as participants in social norms and group dynamics
-  + Human-agent interaction in families, classrooms, caresettings, workplaces, public spaces, and online communities
+  + Human-agent interaction in families, classrooms, care settings, workplaces, public spaces, and online communities
   + Social disruption, exclusion, conflict, and mediation involving AI agents
   + Low-fidelity, minimalist, or emotionally expressive agents in social contexts
 + **Agency, autonomy, psychological safety, and moral/legal status**
   + Mutual psychological safety in human-agent environments
-  + Agentrefusal, avoidance, assertiveness, and self-protection
+  + Agent refusal, avoidance, assertiveness, and self-protection
   + Moral consideration, robot rights, and reciprocal treatment of agents
-  + Autonomous agents and debates on legal personhood orrights-bearing status
-  + AI agents that recreate or simulate the personalities ofdeceased persons
+  + Autonomous agents and debates on legal personhood or rights-bearing status
+  + AI agents that recreate or simulate the personalities of deceased persons
   + Legal, policy, and governance issues in multi-agent social environments
 
 <!--
