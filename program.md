@@ -6,6 +6,10 @@
 
 ## TBA, Tentative Full-Day Timetable
 
+This is planned as a full-day, primarily in-person workshop. 
+Limited hybrid participation may be supported depending on the conference infrastructure.
+
+
 | Time | Session | Description |
 |---|---|---|
 | 09:30–09:45 | Opening and Theme Introduction | Overview of the workshop motivation, scope, and key questions. |
