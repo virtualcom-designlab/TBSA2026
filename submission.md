@@ -2,21 +2,28 @@
 
 
 ## Deadlines:
-TBA
+- Submission deadline: Sept. 15th, 2026 (AOE)
+- Notification of Acceptance: October 10th, 2026
+- Camera-Ready Submission: October 20th, 2026
+
+<!--
+- [Author Registration](https://2026.persuasivetech.org/registration/):	January 31, 2026 /	At least one author per accepted paper must register by this date.
+- [Early Bird Registration (without paper)](https://2026.persuasivetech.org/registration/): 	February 10, 2026	/ Early rate available for all participants.
+-->
 
 ## Format:
-TBA
+- ACM Conference Format as same as HAI full paper and poster submissions
+- All the participants in the Workshop needs (registration in HAI and HAI workshop through the registration website)[https://hai-conference.net/hai2026/registration/].
 
 ## Review:
 - All submissions will be peer-reviewed.
 
 ## Presentation:
 - Accepted submissions will be presented in the program on 16th Nov. 2026 HAI workshop
-- Accepted papers will be made publicly available as arXiv preprints to ensure that workshop contributions are citable and accessible.
 
   
 ## Publication:
-TBA
+- Accepted papers will be made publicly available as arXiv preprints to ensure that workshop contributions are citable and accessible.
 
 <!--
 Your submission should have been done in [EasyChair Persuasive2026](https://easychair.org/conferences/?conf=persuasive2026 ) until the deadline.  
