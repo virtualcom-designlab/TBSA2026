@@ -13,7 +13,7 @@
 
 ## Format:
 - ACM Conference Format as same as HAI full paper and poster submissions
-- All the participants in the Workshop needs (registration in HAI and HAI workshop through the registration website)[https://hai-conference.net/hai2026/registration/].
+- All the participants in the Workshop needs [registration in HAI and HAI workshop through the registration website](https://hai-conference.net/hai2026/registration/).
 
 ## Review:
 - All submissions will be peer-reviewed.
