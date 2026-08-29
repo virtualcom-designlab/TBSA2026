@@ -15,10 +15,14 @@
 - Two column ACM Conference Format ([Latex](https://ja.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) or [Word:linked to UIST](https://uist.acm.org/2024/assets/files/word-two-column-submission-sample.docx)) as same as HAI full paper and poster submissions
   - Recommended page length: 2 to 8 pages 
 - All the participants in the Workshop needs [registration in HAI and HAI workshop through the registration website](https://hai-conference.net/hai2026/registration/).
-- Submissions should be made via [EasyChair TBSA_2nd](https://easychair.org/conferences/submission_new?a=37559240):
+- Submissions should be made via [EasyChair TBSA_2nd](https://easychair.org/conferences/?conf=tbsa2026-2nd):
   - Authors need to log in to EasyChair or create an EasyChair account before submitting.
 After logging in, please click “New submission” to submit your paper.
   - If you encounter technical difficulties with EasyChair, please contact the organizers by email.
+
+<!--
+https://easychair.org/conferences/submission_new?a=37559240
+-->
 
 ## Review:
 - All submissions will be peer-reviewed.
