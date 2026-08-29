@@ -13,6 +13,7 @@
 
 ## Format and Submission Site:
 - ACM Conference Format as same as HAI full paper and poster submissions
+  - Recommended page length: 2 to 8 pages 
 - All the participants in the Workshop needs [registration in HAI and HAI workshop through the registration website](https://hai-conference.net/hai2026/registration/).
 - Submissions should be made via [EasyChair TBSA_2nd](https://easychair.org/conferences/submission_new?a=37559240):
   - Authors need to log in to EasyChair or create an EasyChair account before submitting.
