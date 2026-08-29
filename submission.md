@@ -11,9 +11,13 @@
 - [Early Bird Registration (without paper)](https://2026.persuasivetech.org/registration/): 	February 10, 2026	/ Early rate available for all participants.
 -->
 
-## Format:
+## Format and Submission Site:
 - ACM Conference Format as same as HAI full paper and poster submissions
 - All the participants in the Workshop needs [registration in HAI and HAI workshop through the registration website](https://hai-conference.net/hai2026/registration/).
+- Submissions should be made via [EasyChair TBSA_2nd](https://easychair.org/conferences/submission_new?a=37559240):
+  - Authors need to log in to EasyChair or create an EasyChair account before submitting.
+After logging in, please click “New submission” to submit your paper.
+  - If you encounter technical difficulties with EasyChair, please contact the organizers by email.
 
 ## Review:
 - All submissions will be peer-reviewed.
