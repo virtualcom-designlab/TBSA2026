@@ -13,7 +13,7 @@ title: Trust and Blame
 
 ### important links:
 - **[Submission and important date](submission.html)**
-- [Program and schedule](program.html)
+- [Program](program.html)
 
 ## Organizers (names and affiliations):
 
