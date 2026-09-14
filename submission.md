@@ -2,7 +2,7 @@
 
 
 ## Deadlines:
-- Submission deadline: Sept. 15th, 2026 (AOE)
+- Submission deadline: --Sept. 15th, 2026 (AOE)-- Sept. 30th, 2026 (AOE)
 - Notification of Acceptance: October 10th, 2026
 - Camera-Ready Submission: October 20th, 2026
 
