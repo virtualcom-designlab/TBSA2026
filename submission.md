@@ -16,6 +16,7 @@
   - Recommended page length: 2 to 8 pages 
   - Please use **\documentclass[__sigconf__,nonacm]{acmart}** at the beginning.
     - Note: If you use the template without the <code>nonacm</code> option, your submission may be delayed or put "on hold" by arXiv's automated moderation system due to incorrect copyright metadata.
+  - Please put **\settopmatter{printacmref=false}** at the preamble of the file
 - All the participants in the Workshop needs [registration in HAI and HAI workshop through the registration website](https://hai-conference.net/hai2026/registration/).
 - Submissions should be made via [EasyChair TBSA_2nd](https://easychair.org/conferences/?conf=tbsa2026-2nd):
   - Authors need to log in to EasyChair or create an EasyChair account before submitting.
