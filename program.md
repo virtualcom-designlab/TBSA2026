@@ -1,10 +1,14 @@
 
 <img src="img/TBSAbnr_2.png" alt="Workshop icon" width="98%">
 
-
 # TBSA 2026_2nd Program on 16th Nov. 2026
 
+## Venue
+Practice Room 2 in the ground floor at G building in [OIC](https://en.ritsumei.ac.jp/access/) (Osaka Ibaraki Campus), Ritsumeikan University 
+
+
 ## TBA, Tentative Full-Day Timetable
+
 
 This is planned as a full-day, primarily in-person workshop. 
 Limited hybrid participation may be supported depending on the conference infrastructure.
@@ -14,14 +18,14 @@ Limited hybrid participation may be supported depending on the conference infras
 |---|---|---|
 | 09:30–09:45 | Opening and Theme Introduction | Overview of the workshop motivation, scope, and key questions. |
 | 09:45–10:30 | Invited Keynote / Provocation Talk | A talk introducing broader perspectives on socially embedded agents, trust, responsibility, autonomy, or moral/legal status. |
-| 10:30–10:45 | Break |  |
-| 10:45–12:00 | Paper and Position Presentations | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers. |
-| 12:00–13:30 | Lunch Break |  |
-| 13:30–14:30 | Thematic Discussion | Discussion structured around trust/blame/responsibility, multi-person/multi-agent social dynamics, and agency/autonomy/moral-legal status. |
-| 14:30–14:45 | Break |  |
-| 14:45–16:00 | Breakout Group Activity / Issue Mapping | Small-group discussion to identify key issues, research gaps, design questions, and application scenarios. |
-| 16:00–16:45 | Panel Discussion | Cross-disciplinary discussion connecting HAI, social robotics, AI ethics, philosophy, law, and design perspectives. |
-| 16:45–17:15 | Final Synthesis and Future Agenda | Synthesis of discussion outcomes, including a preliminary issue map, future research agenda, and possible follow-up activities. |
+| 10:30–11:00 | Break |  |
+| 10:45–12:15 | Paper and Position Presentations | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers. |
+| 12:15–13:15 | Lunch Break |  |
+| 13:15–14:30 | Thematic Discussion | Discussion structured around trust/blame/responsibility, multi-person/multi-agent social dynamics, and agency/autonomy/moral-legal status. |
+| 15:00–15:30 | Break |  |
+| 15:30–16:00 | Breakout Group Activity / Issue Mapping | Small-group discussion to identify key issues, research gaps, design questions, and application scenarios. |
+| 16:00–17:00 | Panel Discussion | Cross-disciplinary discussion connecting HAI, social robotics, AI ethics, philosophy, law, and design perspectives. |
+| 17:00–17:30 | Final Synthesis and Future Agenda | Synthesis of discussion outcomes, including a preliminary issue map, future research agenda, and possible follow-up activities. |
 
 ## Facilitation Plan
 
