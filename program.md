@@ -16,16 +16,29 @@ Limited hybrid participation may be supported depending on the conference infras
 
 | Time | Session | Description |
 |---|---|---|
-| 09:30–09:45 | Opening and Theme Introduction | Overview of the workshop motivation, scope, and key questions. |
-| 09:45–10:30 | Invited Keynote / Provocation Talk | A talk introducing broader perspectives on socially embedded agents, trust, responsibility, autonomy, or moral/legal status. |
+| 09:00–09:15 | Pre-Show Mingle | |
+| 09:15–09:20 | Opening and Theme Introduction | Overview of the workshop motivation, scope, and key questions. | |
+| 09:20–09:50 | Featured Talk  | A talk introducing broader perspectives on socially embedded agents, trust, responsibility, autonomy, or moral/legal status. |
+| 09:50–10:10 | Talk 1 | |
+| 10:10–10:30 | Talk 2 | |
 | 10:30–11:00 | Break |  |
-| 10:45–12:15 | Paper and Position Presentations | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers. |
-| 12:15–13:15 | Lunch Break |  |
-| 13:15–14:30 | Thematic Discussion | Discussion structured around trust/blame/responsibility, multi-person/multi-agent social dynamics, and agency/autonomy/moral-legal status. |
+| 11:00–11:20 | Talk 3 | |
+| 11:20–11:40 | Talk 4 | |
+| 11:40–12:00 | Talk 5 | |
+| 12:00–13:00 | Lunch Break | Position Presentations | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers. |
+| 13:00–13:20 |Thematic Discussion | Discussion structured around trust/blame/responsibility, multi-person/multi-agent social dynamics, and agency/autonomy/moral-legal status. |
+| 13:20–13:40 | Talk 6 | |
+| 13:40-14:00 | Talk 7 | |
+| 14:00-14:20 | Talk 8 | |
+| 14:20-14:40 | Talk 9 | |
+| 14:40-15:00 | Talk 10 | |
 | 15:00–15:30 | Break |  |
-| 15:30–16:00 | Breakout Group Activity / Issue Mapping | Small-group discussion to identify key issues, research gaps, design questions, and application scenarios. |
-| 16:00–17:00 | Panel Discussion | Cross-disciplinary discussion connecting HAI, social robotics, AI ethics, philosophy, law, and design perspectives. |
-| 17:00–17:30 | Final Synthesis and Future Agenda | Synthesis of discussion outcomes, including a preliminary issue map, future research agenda, and possible follow-up activities. |
+| 15:30-15:50 | Talk 11 | |
+| 15:50-16:10 | Talk 12 | |
+| 16:10-16:30 | Talk 13 | |
+| 16:30–16:50 | Panel Discussion | Cross-disciplinary discussion connecting HAI, social robotics, AI ethics, philosophy, law, and design perspectives. |
+| 16:50–17:20 | Breakout Group Activity / Issue Mapping | Small-group discussion to identify key issues, research gaps, design questions, and application scenarios. |
+| 17:20–17:30 | Final Synthesis and Future Agenda | Synthesis of discussion outcomes, including a preliminary issue map, future research agenda, and possible follow-up activities. |
 
 ## Facilitation Plan
 
