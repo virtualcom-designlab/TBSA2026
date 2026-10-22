@@ -26,9 +26,6 @@ After logging in, please click “New submission” to submit your paper.
 https://easychair.org/conferences/submission_new?a=37559240
 -->
 
-<a href="#-%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC-id-%E3%81%AE%E3%81%82%E3%82%8B%E8%A6%8B%E5%87%BA%E3%81%97">
-  ■ アンカー ID のある見出し
-</a>
 
 ## arXiv submission (not mandatory but recommended)
 - Please create an account in [arXiv](https://arxiv.org/)
