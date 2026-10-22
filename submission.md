@@ -11,7 +11,7 @@
 - [Early Bird Registration (without paper)](https://2026.persuasivetech.org/registration/): 	February 10, 2026	/ Early rate available for all participants.
 -->
 
-## Format and Submission Site:
+## <a name="#aboutsubmit">Format and Submission Site:</a>
 - Two column ACM Conference Format ([Latex](https://ja.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) or [Word:linked to UIST](https://uist.acm.org/2024/assets/files/word-two-column-submission-sample.docx)) as same as HAI full paper and poster submissions
   - Recommended page length: 2 to 8 pages 
   - Please use **\documentclass[__sigconf__,nonacm]{acmart}** at the beginning.
@@ -28,7 +28,7 @@ https://easychair.org/conferences/submission_new?a=37559240
 
 
 
-## <a name="#aboutarxiv">arXiv submission guide (not mandatory but recommended)</a>
+## <a name="#aboutarxiv">arXiv submission guide: (not mandatory but recommended)</a>
 - Please create an account in [arXiv](https://arxiv.org/)
 - Prepare your final version manuscript (camera-ready manuscript submitted in Easychair)
   - [Here is the camera-ready sample](https://arxiv.org/pdf/2610.29674) 
