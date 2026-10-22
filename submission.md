@@ -14,6 +14,7 @@
 ## arXiv submission (not mandatory but recommended)
 - Please create an account in [arXiv](https://arxiv.org/)
 - Prepare your final version manuscript (camera-ready manuscript submitted in Easychair)
+  - (Here is the camera-ready sample)[https://arxiv.org/pdf/2610.29674]  
 
 ## Format and Submission Site:
 - Two column ACM Conference Format ([Latex](https://ja.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) or [Word:linked to UIST](https://uist.acm.org/2024/assets/files/word-two-column-submission-sample.docx)) as same as HAI full paper and poster submissions
