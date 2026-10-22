@@ -26,6 +26,9 @@ After logging in, please click “New submission” to submit your paper.
 https://easychair.org/conferences/submission_new?a=37559240
 -->
 
+<a href="#aboutarxiv">
+arXiv
+</a>
 
 ## arXiv submission (not mandatory but recommended)
 - Please create an account in [arXiv](https://arxiv.org/)
