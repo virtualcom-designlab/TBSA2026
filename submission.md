@@ -28,12 +28,14 @@ https://easychair.org/conferences/submission_new?a=37559240
 
 
 
-## <a name="#aboutarxiv">arXiv submission guide: (not mandatory but recommended)</a>
-- Please create an account in [arXiv](https://arxiv.org/)
-- Prepare your final version manuscript (camera-ready manuscript submitted in Easychair)
-  - [Here is the camera-ready sample](https://arxiv.org/pdf/2610.29674) 
-- Please use the comment field
-  - **The 2nd International Workshop on Trust and Blame in Multi-Person Multi-Agent Societies (TBSA_2nd) in HAI 2026**, __XX__ pages, __XX__ figures
+## <a name="#aboutarxiv">arXiv Submission Guide: (not mandatory but recommended)</a>
+1. Please create an account in [arXiv](https://arxiv.org/)
+2. Prepare your final version manuscript (camera-ready manuscript submitted in Easychair)
+    - [Here is the camera-ready sample](https://arxiv.org/pdf/2610.29674) 
+3. Please use the comment field
+    - **The 2nd International Workshop on Trust and Blame in Multi-Person Multi-Agent Societies (TBSA_2nd) in conjunction with HAI 2026**, __XX__ pages, __XX__ figures
+4. Please send your arXiv manuscript URL to us when it's approved
+    - The process will done in about two days
 
 ## Review:
 - All submissions will be peer-reviewed.
