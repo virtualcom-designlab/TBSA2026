@@ -35,8 +35,10 @@ https://easychair.org/conferences/submission_new?a=37559240
 3. Please use the comment field
     - **The 2nd International Workshop on Trust and Blame in Multi-Person Multi-Agent Societies (TBSA_2nd) in conjunction with HAI 2026**, __XX__ pages, __XX__ figures
 4. Please use **Robotics (cs.RO)** or **Human-Computer Interaction (cs.HC)** for Subjects field. 
-4. Please send your arXiv manuscript URL to us when it's approved
+5. Please send your arXiv manuscript URL to us when it's approved
     - The process will done in about two days
+6. If you have any problem such as arXiv endorsement, please **wait the endorsement for 2 months** when the organizer becomes an endorser.
+
 
 ## Review:
 - All submissions will be peer-reviewed.
