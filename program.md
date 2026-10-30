@@ -24,10 +24,10 @@ Limited hybrid participation may be supported depending on the conference infras
 | 10:30–11:00 | Break |  |
 | 11:00–11:20 | Talk 3 by Rie Iizuka | |
 | 11:20–11:40 | Talk 4 by Akiko Orita | |
-| 11:40–12:00 | Talk 5 by Tomoko Yonezawa | |
+| 11:40–12:00 | Talk 5 by Tomoko Yonezawa | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__1.pdf) [arXiv](https://arxiv.org/abs/2610.29674)|
 | 12:00–13:00 | Lunch Break | Position Presentations | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers. |
 | 13:00–13:20 |Thematic Discussion | Discussion structured around trust/blame/responsibility, multi-person/multi-agent social dynamics, and agency/autonomy/moral-legal status. |
-| 13:20–13:40 | Talk 6 by Naoki Matsumura, Kensuke Sugihara and Tomoko Yonezawa | |
+| 13:20–13:40 | Talk 6 by Naoki Matsumura, Kensuke Sugihara and Tomoko Yonezawa | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__6.pdf) [arXiv](https://arxiv.org/abs/2610.38536) |
 | 13:40-14:00 | Talk 7 by Daigo Suhara and Tomoko Yonezawa | |
 | 14:00-14:20 | Talk 8 by Takaya Tamamoto and Tomoko Yonezawa | |
 | 14:20-14:40 | Talk 9 by Hirotake Yamazoe and Shingo Yamaguchi | |
