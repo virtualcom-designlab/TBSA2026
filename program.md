@@ -18,23 +18,23 @@ Limited hybrid participation may be supported depending on the conference infras
 |---|---|---|
 | 09:00–09:15 | Pre-Show Mingle | |
 | 09:15–09:20 | Opening and Theme Introduction | Overview of the workshop motivation, scope, and key questions. | |
-| 09:20–09:50 | Featured Talk by Soma Araoka |  |
-| 09:50–10:10 | Talk 1 by Yu Nishitsutsumi | |
-| 10:10–10:30 | Talk 2 by Ryo Uehara | |
+| 09:20–09:50 | Featured Talk by Soma Araoka | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__8.pdf)  |
+| 09:50–10:10 | Talk 1 by Yu Nishitsutsumi | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__10.pdf)  |
+| 10:10–10:30 | Talk 2 by Ryo Uehara | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__2.pdf) |
 | 10:30–11:00 | Break |  |
-| 11:00–11:20 | Talk 3 by Rie Iizuka | |
-| 11:20–11:40 | Talk 4 by Akiko Orita | |
+| 11:00–11:20 | Talk 3 by Rie Iizuka | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__11.pdf) |
+| 11:20–11:40 | Talk 4 by Akiko Orita | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__4.pdf) |
 | 11:40–12:00 | Talk 5 by Tomoko Yonezawa | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__1.pdf) [arXiv](https://arxiv.org/abs/2610.29674)|
 | 12:00–13:00 | Lunch Break | Position Presentations | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers. |
 | 13:00–13:20 |Thematic Discussion | Discussion structured around trust/blame/responsibility, multi-person/multi-agent social dynamics, and agency/autonomy/moral-legal status. |
 | 13:20–13:40 | Talk 6 by Naoki Matsumura, Kensuke Sugihara and Tomoko Yonezawa | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__6.pdf) [arXiv](https://arxiv.org/abs/2610.38536) |
-| 13:40-14:00 | Talk 7 by Daigo Suhara and Tomoko Yonezawa | |
-| 14:00-14:20 | Talk 8 by Takaya Tamamoto and Tomoko Yonezawa | |
-| 14:20-14:40 | Talk 9 by Hirotake Yamazoe and Shingo Yamaguchi | |
-| 14:40-15:00 | Talk 10 by Miho Chiyonobu, Yuki Takemoto, Yu Ishikawa and Masami Takata | |
+| 13:40-14:00 | Talk 7 by Daigo Suhara and Tomoko Yonezawa | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__5.pdf) |
+| 14:00-14:20 | Talk 8 by Takaya Tamamoto and Tomoko Yonezawa | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__9.pdf) |
+| 14:20-14:40 | Talk 9 by Hirotake Yamazoe and Shingo Yamaguchi | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__13.pdf) |
+| 14:40-15:00 | Talk 10 by Miho Chiyonobu, Yuki Takemoto, Yu Ishikawa and Masami Takata | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__7.pdf) |
 | 15:00–15:30 | Break |  |
-| 15:30-15:50 | Talk 11 by Jaeyoun You | |
-| 15:50-16:10 | Talk 12 by Kunihiko Saito | |
+| 15:30-15:50 | Talk 11 by Jaeyoun You | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__12.pdf) |
+| 15:50-16:10 | Talk 12 by Kunihiko Saito | [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__3.pdf) |
 | 16:10-16:30 | Panel Discussion | Cross-disciplinary discussion connecting HAI, social robotics, AI ethics, philosophy, law, and design perspectives. |
 | 16:30–17:00 | Breakout Group Activity / Issue Mapping | Small-group discussion to identify key issues, research gaps, design questions, and application scenarios. |
 | 17:00–17:10 | Final Synthesis and Future Agenda | Synthesis of discussion outcomes, including a preliminary issue map, future research agenda, and possible follow-up activities. |
