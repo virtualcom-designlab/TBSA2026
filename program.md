@@ -13,32 +13,38 @@ Practice Room 2 in the ground floor at G building in [OIC](https://en.ritsumei.a
 This is planned as a full-day, primarily in-person workshop. 
 Limited hybrid participation may be supported depending on the conference infrastructure.
 
+- Normal Talk: 20 mins including Q & A.
+- Featured Talk: 30 mins including Q & A.
 
 | Time | Session | Description |
 |---|---|---|
-| 09:00–09:15 | Pre-Show Mingle | |
-| 09:15–09:20 | Opening and Theme Introduction | Overview of the workshop motivation, scope, and key questions. | |
+| 09:00–09:15 | Pre-Show Mingle ☆ | |
+|✧✧✧| ✧✧✧ Session 1-1 ✧✧✧  |Chair: Dr. Ryo Uehara|
+| 09:15–09:20 | Opening and Theme Introduction ☆ | Overview of the workshop motivation, scope, and key questions. | |
 | 09:20–09:50 | Featured Talk by Soma Araoka | Protecting the Posthumous Self — AI Reconstruction of the Deceased, Unbefangenheit, and Conduct-Based Post-Mortem Personality Protection [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__8.pdf)  |
 | 09:50–10:10 | Talk 1 by Yu Nishitsutsumi | Autonomous Acceptance in Human-Agent Interaction: Rethinking Autonomy through Delegation to Agents [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__10.pdf)  |
 | 10:10–10:30 | Talk 2 by Ryo Uehara | Completing the Duchampian Project: The End of "Authenticity of Origin" and Distributed Trust in AI Art [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__2.pdf) |
-| 10:30–11:00 | Break |  |
+| 10:30–11:00 | ✦✦✦ Break ✦✦✦ |  |
+|✧✧✧| ✧✧✧ Session 1-2 ✧✧✧  | Chair: Dr. Ryo Uehara|
 | 11:00–11:20 | Talk 3 by Rie Iizuka | “Tell Me It Will Be Okay”: Conversational AI and Low-Burden Emotional Support for Adolescents and Young Adults with Cancer [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__11.pdf) |
 | 11:20–11:40 | Talk 4 by Akiko Orita | Whose Trust, Whose Blame? Distributed Responsibility in AI Recreation of the Deceased: Evidence from Open-Ended Survey Responses [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__4.pdf) |
 | 11:40–12:00 | Talk 5 by Tomoko Yonezawa | From Acceptance and Avoidance to Affective Viscosity: Designing Social Agents Intermediating in Human Relationships [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__1.pdf) [arXiv](https://arxiv.org/abs/2610.29674)|
-| 12:00–13:00 | Lunch Break |  |  |
-| 13:00–13:20 | Thematic Discussion | Discussion structured around trust/blame/responsibility, multi-person/multi-agent social dynamics, and agency/autonomy/moral-legal status. |
-| (casual) | Position Presentations | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers.|
+| 12:00–13:00 | ✦✦✦ Lunch Break ✦✦✦ |  |  |
+| 13:00–13:20 | Thematic Discussion ☆ | Discussion structured around trust/blame/responsibility, multi-person/multi-agent social dynamics, and agency/autonomy/moral-legal status. |
+| (casual) | Position Presentations ☆ | Presentations of accepted short papers, position papers, empirical studies, design cases, or scenario papers.|
+|✧✧✧| ✧✧✧ Session 2 ✧✧✧  | Chair: Dr. Hirotake Yamazoe |
 | 13:20–13:40 | Talk 6 by Naoki Matsumura, Kensuke Sugihara and Tomoko Yonezawa | Influence of Agent Number and Behavior on Users' Psychological Responses in VR Evacuation Training [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__6.pdf) [arXiv](https://arxiv.org/abs/2610.38536) |
 | 13:40-14:00 | Talk 7 by Daigo Suhara and Tomoko Yonezawa | A Study on the Effects of Finger Movements on a Humanoid Hugging Robot [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__5.pdf) [arXiv](https://arxiv.org/abs/2611.02517) |
 | 14:00-14:20 | Talk 8 by Takaya Tamamoto and Tomoko Yonezawa | Touching Projected Agents through the DAT Screen: System Design and Questions of Interaction Boundaries [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__9.pdf) [arXiv](https://arxiv.org/abs/2611.02525) |
 | 14:20-14:40 | Talk 9 by Hirotake Yamazoe and Shingo Yamaguchi | Acceptance and Responsibility Attribution Toward Autonomous Ambulances Across Driving Conditions: A Preliminary Survey of Fire Service Personnel [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__13.pdf) [arXiv](https://arxiv.org/abs/2611.01132) |
 | 14:40-15:00 | Talk 10 by Miho Chiyonobu, Yuki Takemoto, Yu Ishikawa and Masami Takata | Distribution Is Not Enough:Trust and Blame in Multi-Person Multi-Agent Environments under Information Ethics 2.0 [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__7.pdf) |
-| 15:00–15:30 | Break ||
+| 15:00–15:30 | ✦✦✦ Break ✦✦✦ ||
+|✧✧✧| ✧✧✧ Session 3 ✧✧✧  | Chair: Dr. Kunifumi Saito |
 | 15:30-15:50 | Talk 11 by Jaeyoun You | [**Zoom**] Adversaries, Not Enemies: Delegated Speech and Displaced Blame in AI-Mediated Political Dialogue [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__12.pdf) |
 | 15:50-16:10 | Talk 12 by Kunihiko Saito | Digital Afterlife and the Postmortem Right of Publicity [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__3.pdf) |
-| 16:10-16:30 | Panel Discussion | Cross-disciplinary discussion connecting HAI, social robotics, AI ethics, philosophy, law, and design perspectives. |
-| 16:30–17:00 | Breakout Group Activity / Issue Mapping | Small-group discussion to identify key issues, research gaps, design questions, and application scenarios. |
-| 17:00–17:10 | Final Synthesis and Future Agenda | Synthesis of discussion outcomes, including a preliminary issue map, future research agenda, and possible follow-up activities. |
+| 16:10-16:30 | Panel Discussion ☆ | Cross-disciplinary discussion connecting HAI, social robotics, AI ethics, philosophy, law, and design perspectives. |
+| 16:30–17:00 | Breakout Group Activity / Issue Mapping ☆ | Small-group discussion to identify key issues, research gaps, design questions, and application scenarios. |
+| 17:00–17:10 | Final Synthesis and Future Agenda ☆ | Synthesis of discussion outcomes, including a preliminary issue map, future research agenda, and possible follow-up activities. |
 
 ## Facilitation Plan
 
