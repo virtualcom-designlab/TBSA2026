@@ -41,7 +41,7 @@ Limited hybrid participation may be supported depending on the conference infras
 | 15:00–15:30 | ✦✦✦ Break ✦✦✦ ||
 |✧✧✧| ✧✧✧ Session 3 ✧✧✧  | Chair: Dr. Kunifumi Saito |
 | 15:30-15:50 | Talk 11 by Jaeyoun You | [**Zoom**] Adversaries, Not Enemies: Delegated Speech and Displaced Blame in AI-Mediated Political Dialogue [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__12.pdf) |
-| 15:50-16:10 | Talk 12 by Kunihiko Saito | Digital Afterlife and the Postmortem Right of Publicity [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__3.pdf) |
+| 15:50-16:10 | Talk 12 by Kunifumi Saito | Digital Afterlife and the Postmortem Right of Publicity [PDF](https://lab.yoneyone.net/tmp/tbsa2026pdf/TBSA2026_2nd_paper__3.pdf) |
 | 16:10-16:30 | Panel Discussion ☆ | Cross-disciplinary discussion connecting HAI, social robotics, AI ethics, philosophy, law, and design perspectives. |
 | 16:30–17:00 | Breakout Group Activity / Issue Mapping ☆ | Small-group discussion to identify key issues, research gaps, design questions, and application scenarios. |
 | 17:00–17:10 | Final Synthesis and Future Agenda ☆ | Synthesis of discussion outcomes, including a preliminary issue map, future research agenda, and possible follow-up activities. |
