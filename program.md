@@ -7,6 +7,15 @@
 ## Venue
 Practice Room 2 in the ground floor at G building in [OIC](https://en.ritsumei.ac.jp/access/) (Osaka Ibaraki Campus), Ritsumeikan University 
 
+<img src="img/rittsu.jpg" alt="Venue" width="98%"><br>
+<img src="img/rittsu2.png" alt="Venue2" width="98%">
+
+## Join HAI2026 slack 
+Join HAI2026 slack (emailed on 11th Nov.) and our workshop channel **#ws-trust_and_blame** in the slack.
+
+## Breaks and Lunch
+Coffee breaks and boxed lunches will be provided throughout the conference. We will do our best to ensure that there is enough for everyone, but we kindly ask for your understanding should supplies run out.
+
 
 ## TBA, Tentative Full-Day Timetable
 
