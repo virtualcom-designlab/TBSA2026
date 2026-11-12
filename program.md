@@ -7,8 +7,8 @@
 ## Venue
 Practice Room 2 in the ground floor at G building in [OIC](https://en.ritsumei.ac.jp/access/) (Osaka Ibaraki Campus), Ritsumeikan University 
 
-<img src="img/rittsu.jpg" alt="Venue" width="98%"><br>
-<img src="img/rittsu2.png" alt="Venue2" width="98%">
+<img src="img/rittsu.jpg" alt="Venue" width="49%">
+<img src="img/rittsu2.png" alt="Venue2" width="49%">
 
 ## Join HAI2026 slack 
 Join HAI2026 slack (emailed on 11th Nov.) and our workshop channel **#ws-trust_and_blame** in the slack.
