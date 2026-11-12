@@ -17,7 +17,7 @@ Join HAI2026 slack (emailed on 11th Nov.) and our workshop channel **#ws-trust_a
 Coffee breaks and boxed lunches will be provided throughout the conference. We will do our best to ensure that there is enough for everyone, but we kindly ask for your understanding should supplies run out.
 
 
-## TBA, Tentative Full-Day Timetable
+## Full-Day Timetable
 
 
 This is planned as a full-day, primarily in-person workshop. 
