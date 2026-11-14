@@ -4,6 +4,9 @@
 # TBSA 2026_2nd Program  
 ### on 16th Nov. 2026 as HAI2026 Workshop
 
+The venue will be available __from 8:00__, 
+and registration is planned to __start at 8:15__.
+
 ## Venue
 Practice Room 2 in the ground floor at G building in [OIC](https://en.ritsumei.ac.jp/access/) (Osaka Ibaraki Campus), Ritsumeikan University 
 
