@@ -2,7 +2,7 @@
 layout: default
 title: Trust and Blame
 ---
-
+<title>TBSA2026_2nd in HAI2026</title>
 <img src="img/TBSAbnr_2.png" alt="Workshop icon" width="96%">
 
 # TBSA 2026_2nd
