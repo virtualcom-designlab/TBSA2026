@@ -8,7 +8,7 @@ The venue will be available __from 8:00__,
 and registration is planned to __start at 8:15__.
 
 ## Venue
-Practice Room 2 in the ground floor at G building in [OIC](https://en.ritsumei.ac.jp/access/) (Osaka Ibaraki Campus), Ritsumeikan University 
+Practice Room 2 in the ground floor at Future Plaza building in [OIC](https://en.ritsumei.ac.jp/access/) (Osaka Ibaraki Campus), Ritsumeikan University 
 
 <img src="img/rittsu.jpg" alt="Venue" width="49%">
 <img src="img/rittsu2.jpg" alt="Venue2" width="49%">
