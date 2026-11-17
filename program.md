@@ -19,7 +19,8 @@ Join HAI2026 slack (emailed on 11th Nov.) and our workshop channel **#ws-trust_a
 ## Photos
 Link to [Photos](https://lab.yoneyone.net/tmp/tbsa2026photo/index.php)
 
-<a href="
+
+
 ## Breaks and Lunch
 Coffee breaks and boxed lunches will be provided throughout the conference. We will do our best to ensure that there is enough for everyone, but we kindly ask for your understanding should supplies run out.
 
